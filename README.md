@@ -1,1 +1,1 @@
-# -dji-hardware-schematics-mirror
+# dji-hardware-schematics-mirror
